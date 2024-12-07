@@ -24,9 +24,6 @@
 <p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=Sahildhillon0&&style=for-the-badge" /> </p>
 
 <!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<!-- Streak feature -->
 
 <!--Languages & tools-->
 ## 🌐 Socials:
@@ -89,11 +86,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Sahildhillon0&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
 </div>
 <br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 <!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 <div align="center"> 
